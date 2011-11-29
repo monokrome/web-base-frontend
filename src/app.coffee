@@ -11,3 +11,4 @@ helpers.apply server
 
 server.listen server.set 'listening-port'
 
+module.exports = server
