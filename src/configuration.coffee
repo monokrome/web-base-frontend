@@ -26,4 +26,3 @@ exports.apply = (server) ->
 
   server.configure 'production', ->
     this.set 'listening-port', (process.env.NODE_PORT || process.env.PORT) || 80
-
