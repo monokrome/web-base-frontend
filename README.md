@@ -14,6 +14,7 @@ most things out is left to be a simple task:
 	* Connect-Assets
 	* Nib
 	* Uglify-JS
+    * Winston
 - Modernizr.js
 - Respond.js
 
