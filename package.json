@@ -1,7 +1,7 @@
 {
   "author": "Brandon R. Stoner <monokrome@limpidtech.com> (http://monokro.me)",
   "name": "web-base-frontend",
-  "description": "My personal website.",
+  "description": "A node.js framework using coffeescript, stylus, and jade.",
   "version": "0.0.0",
   "homepage": "http://monokro.me",
   "scripts": {
