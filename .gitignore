@@ -10,4 +10,5 @@ npm-debug.log
 .*
 !.gitignore
 !.gitmodules
+!.travis.yml
 
