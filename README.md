@@ -38,6 +38,14 @@ and keeping it easy to get started with your frontend. Here is a
 simple overview of what decisions have been made, and why they
 have been made.
 
+Deployment
+==========
+
+This project is automatically ready to be deployed to Nodejitsu,
+Heroku, and No.de. If there are any services that it doesn't
+support, and you are interested in supporting them - submit an
+issue and we will look into setting it up.
+
 Directory structure
 -------------------
 
