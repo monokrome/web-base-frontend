@@ -1,5 +1,5 @@
 language: node_js
 node_js:
-	- 0.6 # Stable
-	- 0.7 # Development
+    - 0.6 # Stable
+    - 0.7 # Development
 
