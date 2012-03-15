@@ -61,6 +61,7 @@ structure.
     	stylesheets/ *contains .styl files for preprocessing CSS using Stylus syntax*
     server.js *bootstarts coffee-script and requires ./src/app*
     package.json *describes package dependancies and other metadata*
+    .travis.yml *provides the necessary configuration for travis-ci.org*
 
 Why are views shared between server & client?
 ---------------------------------------------
