@@ -16,8 +16,8 @@ exports.apply = (server) ->
     src: 'assets/'
     helperContext: server.assets_context
 
-  server.assets_context.css.root = 'stylesheets/'
-  server.assets_context.js.root = 'scripts/'
+  server.assets_context.css.root = 'stylesheets'
+  server.assets_context.js.root = 'scripts'
 
   server.set 'views', public_dir 'views'
 
