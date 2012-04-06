@@ -62,16 +62,14 @@ Directory structure
 By default, static files are served from the following directory
 structure.
 
-    public/ *contains all static files*
-        scripts/ *contains all client-side script files*
-            development/ *contains unminified scripts useful for development*
-            production/ *contains minified scripts for production*
-        views/ *contains our views for both server and client*
-    src/ *contains all server-side source code*
-    	stylesheets/ *contains .styl files for preprocessing CSS using Stylus syntax*
-    server.js *bootstarts coffee-script and requires ./src/app*
-    package.json *describes package dependancies and other metadata*
-    .travis.yml *provides the necessary configuration for travis-ci.org*
+- public/ contains all static files
+- public/views/ contains our views for both server and client
+- assets/scripts/ contains all unminified client-side script files
+- assets/stylesheets/ contains .styl files for preprocessing CSS using Stylus syntax
+- src/ contains all server-side source code
+- src/server.js bootstarts coffee-script and requires ./src/app
+- package.json describes package dependancies and other metadata
+- .travis.yml provides the necessary configuration for travis-ci.org
 
 Why are views shared between server & client?
 ---------------------------------------------
