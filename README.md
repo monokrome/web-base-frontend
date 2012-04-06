@@ -26,8 +26,10 @@ root directory of our repository:
 
     npm install
 
-This should resolve all dependencies, and you should have a server
-running at **localhost:8080** by running the following command:
+This should resolve all dependencies. Make sure that you've set the
+environment variable **NODE_ENV** to **development**, and you should
+be able to find a server running at **localhost:8000** by running the
+following command:
 
     npm start
 
