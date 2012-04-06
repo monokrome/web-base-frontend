@@ -33,6 +33,12 @@ following command:
 
     npm start
 
+
+*NOTE:* If you do not set NODE_ENV="development" then the server will
+assume that you are running it in production, and so it will run your
+project on port 80 - which will fail unless you ran the server as root.
+*Don't run the project as root.*
+
 Architecture
 ============
 
