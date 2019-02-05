@@ -1,7 +1,7 @@
 About the project
 =================
 
-[![Build Status](https://secure.travis-ci.org/monokrome/web-base-frontend.png?branch=master)](http://travis-ci.org/monokrome/web-base-frontend)
+[![Build Status](https://secure.travis-ci.org/monokrome/web-base-frontend.png?branch=master)](http://travis-ci.org/monokrome/web-base-frontend) [![Greenkeeper badge](https://badges.greenkeeper.io/monokrome/web-base-frontend.svg)](https://greenkeeper.io/)
 
 This project represents a basic frontend for me to use in order to
 get CoffeeScript projects started relatively quickly. The default
